@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Kelwin Pereira</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum, ligula rhoncus iaculis tristique, erat urna blandit risus, sit amet bibendum tortor nulla non metus. Aliquam malesuada diam sed risus porttitor ullamcorper. Duis vitae ipsum odio. Donec nec nunc neque. Morbi cursus eget ipsum eget efficitur. Nunc erat lorem, porta at orci sed, lobortis tincidunt nisi. Integer suscipit vitae odio vel varius. Donec interdum varius cursus. Duis accumsan at nibh non tempor. Integer viverra ex et est aliquet bibendum.
+
+        \n\nSed tincidunt libero pulvinar, ultricies lorem eget, maximus eros. Aenean risus justo, fermentum id purus eget, congue fringilla ex. Fusce egestas sodales purus varius pharetra. Nulla mollis eros ut sapien imperdiet, sit amet fermentum quam viverra. Duis dui sem, cursus eget metus id, sollicitudin suscipit purus. Donec tincidunt nulla vel imperdiet euismod. In nec faucibus enim.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
